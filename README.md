@@ -1,3 +1,4 @@
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="270" width="400" alt="GIF" src="https://art.ngfiles.com/images/3268000/3268139_pixelhao_spider-man-2099.gif?f1686974594">
   
@@ -13,3 +14,13 @@
 <a href="https://www.youtube.com/@Trini_Est"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube" /></a>&nbsp;
 
 </p>
+
+---
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+
+---
+
