@@ -6,3 +6,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Esteban+Trinidad+🐢🐢)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🎉)](https://git.io/typing-svg)
 
+<p align="center">
+<br>
+<a href="https://www.tiktok.com/@elestet2d"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tik Tok" /></a>&nbsp;
+<a href="https://www.instagram.com/trini_esteban/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.youtube.com/@Trini_Est"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube" /></a>&nbsp;
+
+</p>
