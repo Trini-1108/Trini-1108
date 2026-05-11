@@ -40,10 +40,17 @@
 ---
 ## 📊 My Github Stats
 
-<br/>
-    <a href="https://github.com/Trini-1108?tab=stars"><img alt="Trini-1108- Github Stats" src="https://github-readme-stats.vercel.app/api?username=Trini-1108&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Trini-1108-Singh/github-readme-stats"><img alt="Trini-1108" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trini-1108&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
   <br/>
+    <img alt="Hendrasob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Trini-1108&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img alt="Hendrasob's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trini-1108&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Trini-1108&theme=highcontrast" />
+
   
 ---
 
