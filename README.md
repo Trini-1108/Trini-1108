@@ -51,6 +51,14 @@
 
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Trini-1108&theme=highcontrast" />
 
-  
+
+<hr>
+
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
+
+ <hr>
+ 
 ---
 
